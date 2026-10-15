@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AccessDB_CRUD/AccessDB_CRUD.csproj" />
+  <Project Path="ConsoleApp1/DelegateExample.csproj" Id="d3a4f6cb-eac7-4dd0-9e55-9ee4b044e0b0" />
+</Solution>
